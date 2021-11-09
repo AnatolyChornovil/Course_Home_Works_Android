@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:title="@string/hommed"
+        android:id="@+id/hommed">
+        <item android:title="@string/birds" >
+            <menu>
+                <item android:title="@string/hduck"
+                    android:id="@+id/hduck"/>
+                <item android:title="@string/hgoose"
+                    android:id="@+id/hgoose"/>
+                <item android:title="@string/hchick"
+                    android:id="@+id/hchick"/>
+            </menu>
+        </item>
+        <item android:title="@string/animals" >
+            <menu>
+                <item android:title="@string/hpig"
+                    android:id="@+id/hpig"/>
+                <item android:title="@string/hcow"
+                    android:id="@+id/hcow"/>
+                <item android:title="@string/hsheep"
+                    android:id="@+id/hsheep"/>
+            </menu>
+        </item>
+        <item android:title="@string/tamed">
+            <menu>
+                <item android:title="@string/hcat"
+                    android:id="@+id/hcat"/>
+                <item android:title="@string/hdog"
+                    android:id="@+id/hdog"/>
+                <item android:title="@string/hfish"
+                    android:id="@+id/hfish"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group android:title="@string/wild"
+        android:id="@+id/wild">
+        <item android:title="@string/birds" >
+            <menu>
+                <item android:title="@string/wduck"
+                    android:id="@+id/wduck"/>
+                <item android:title="@string/wgoose"
+                    android:id="@+id/wgoose"/>
+                <item android:title="@string/wchick"
+                    android:id="@+id/wchick"/>
+            </menu>
+        </item>
+        <item  android:title="@string/animals">
+            <menu>
+                <item android:title="@string/wpig"
+                    android:id="@+id/wpig"/>
+                <item android:title="@string/wcow"
+                    android:id="@+id/wcow"/>
+                <item android:title="@string/wsheep"
+                    android:id="@+id/wsheep"/>
+            </menu>
+        </item>
+        <item android:title="@string/tamed">
+            <menu>
+                <item android:title="@string/wcat"
+                    android:id="@+id/wcat"/>
+                <item android:title="@string/wdog"
+                    android:id="@+id/wdog"/>
+                <item android:title="@string/wfish"
+                    android:id="@+id/wfish"/>
+            </menu>
+        </item>
+    </group>
+</menu>

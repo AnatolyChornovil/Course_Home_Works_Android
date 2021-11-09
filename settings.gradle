@@ -1,2 +1,3 @@
 rootProject.name = "Home_Work_071"
 include ':app'
+include ':p071_'

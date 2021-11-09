@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Home_Work_071</string>
+
+    <string name="hommed">Свійські</string>
+    <string name="wild">Дикі</string>
+
+
+    <string name="birds">Птахи</string>
+    <string name="animals">Тварини</string>
+    <string name="tamed">Приручені</string>
+
+    <string name="hduck">Домашня Качка</string>
+    <string name="hgoose"> Домашня Гуска</string>
+    <string name="hchick">Домашня  Курка</string>
+
+    <string name="hpig"> Домашня Свиня</string>
+    <string name="hcow">Домашня Корова</string>
+    <string name="hsheep">Домашня Вівця</string>
+
+    <string name="hcat">Домашній Кіт</string>
+    <string name="hdog">Домашня Собака</string>
+    <string name="hfish">Домашні Рибки</string>
+
+    <string name="wduck">Дика Качка</string>
+    <string name="wgoose">Дика Гуска</string>
+    <string name="wchick">Дика Курка</string>
+
+    <string name="wpig">Дика Свиня</string>
+    <string name="wcow">Дикий Бик</string>
+    <string name="wsheep">Дикий Баран</string>
+
+    <string name="wcat">Дикі Коти</string>
+    <string name="wdog">Вовки</string>
+    <string name="wfish">Риби</string>
+
+    <string name="aboutHduck"> водоплавна птиця з ряду гускоподібних (Anseriformes),
+        родини качкових яка розводиться людиною </string>
+    <string name="aboutHgoose"> одомашнена форма гусей. Розводиться заради м"яса ,
+        жиру, пір"я і печінки </string>
+    <string name="aboutHchick">найпоширеніші птахи планети,зозводиться заради м"яса та яєць </string>
+
+    <string name="aboutHpig">Свійська свиня дає м"ясо і сало, а також шкіру і щетину; вона
+        виявляє високу плодючість і швидко росте </string>
+    <string name="aboutHcow">В українській народній традиції корова — це годувальниця та основа
+        добробуту сім"ї.Розводять заради м"яса, шкіри та молока. </string>
+    <string name="aboutHsheep">вид ссавців з підродини козли, домашня жуйна парнокопитна тварина
+        роду баранів. Походить від диких гірських баранів</string>
+
+    <string name="aboutHcat">невеликий ссавець ряду хижих родини котових. Сучасна назва походить
+        від латинської назви catus</string>
+    <string name="aboutHdog"> культигенна тварина. Термін застосовують як для домашніх, так і для
+        бездомних тварин</string>
+    <string name="aboutHfish">збірна назва таксономічно різнорідних риб, яких утримують у акваріумах
+        з декоративною метою</string>
+
+    <string name="abouWduck"> рід птахів родини Качкових (Anatidae). Наймасовіші види качок
+            Євразії та Північної Америки.  </string>
+    <string name="aboutWgoose"> рід птахів з родини качиних. Рід складається приблизно
+            з десятка видів </string>
+    <string name="aboutWchick">рід птахів родини фазанових, який включає чотири види. Кури в
+            дикій природі зустрічаються в Індії та Південно-Східної Азії </string>
+
+    <string name="aboutWpig">Свиня дика, або кабан дикий, дик, вепр, кнур (Sus scrofa) —
+            один з 10 видів роду свиня (Sus) родини свиневих  </string>
+    <string name="aboutWcow">Тур (Bos taurus) — вид з роду справжніх биків родини парнокопитних,
+            в складі якого знаходяться попередні сучасним домашнім бикам дикі підвиди </string>
+    <string name="aboutWsheep">Баран або вівця (Ovis) — рід ссавців ряду оленеподібних
+            (Cerviformes) з підродини козлових (Caprinae) родини бикових (Bovidae)</string>
+
+    <string name="aboutWcat">Загалом подібний до свійського кота, але відрізняється дещо
+            більшими розмірами (довжина тіла до 90 см) і відносно коротким притупленим хвостом</string>
+    <string name="aboutWdog"> Вовк (Canis lupus L.) — хижий ссавець з роду пес (Canis) родини
+            псових (Canidae), що добуває їжу самостійно активним пошуком та переслідуванням жертв</string>
+    <string name="aboutWfish">Ри́би (Pisces) — парафілетична група водних хребетних тварин,
+            зазвичай холоднокровних (точніше екзотермних) із вкритим лусками тілом та зябрами</string>
+
+</resources>
